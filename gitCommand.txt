@@ -1,0 +1,4 @@
+git status
+git add . gitcommand.txt
+git commit -m ""
+git push
