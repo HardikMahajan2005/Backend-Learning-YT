@@ -1,4 +1,5 @@
-git status
-git add . gitcommand.txt
-git commit -m ""
+git status (to see the status that which file is not sent)
+git add . (for sending the all files)
+git add gitcommand.txt(for sending the specific file)
+git commit -m "" (You can put anything inside this "")
 git push
