@@ -7,7 +7,7 @@ console.log(path.basename());
 // this will print the directory name
 console.log(path.dirname());
 
-// this will print the extension name
+// this will print the extension name (for ex:in this it will return the js)
 console.log(path.extname()); 
 
 // this will join the path which we will provide him for ex:- see below line
